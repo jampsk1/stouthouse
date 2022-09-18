@@ -24,5 +24,5 @@
 
 ## Ссылки
 - [Stout House](http://maximkakdela.pythonanywhere.com/)
-- [Miro](https://miro.com/app/board/o9J_lNnc278=/)
+- [Miro]()
 
