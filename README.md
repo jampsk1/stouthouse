@@ -27,3 +27,4 @@
 - [Miro](https://miro.com/app/board/uXjVPVBlgms=/)
 - [Яндекс.трекер](https://tracker.yandex.ru/ORG/order:updated:true/filter?resolution=empty())
 - [Техническое задание](https://github.com/jampsk1/stouthouse/blob/core/docs/Техническое%20задание.pdf)
+- [Видео демонстрация](https://youtu.be/CNdhVCEfd1M)
