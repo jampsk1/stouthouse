@@ -25,4 +25,5 @@
 ## Ссылки
 - [Stout House](http://maximkakdela.pythonanywhere.com/)
 - [Miro](https://miro.com/app/board/uXjVPVBlgms=/)
-
+- [Яндекс.трекер](https://tracker.yandex.ru/ORG/order:updated:true/filter?resolution=empty())
+- ТЗ
